@@ -60,48 +60,6 @@ Viés forte de engenharia: padrões claros, testes que protegem produção, Clea
 
 ---
 
-### Trajetória
-
-<table>
-<tr>
-<td width="120" align="center"><strong>2023 — hoje</strong></td>
-<td>
-<strong>Senior Software Engineer</strong> @ <strong>Qlic</strong><br/>
-Checkout com ~R$ 1M/mês em volume transacionado. Integrações de pagamento do zero (Apple Pay, Google Pay, Pix, cartão, benefícios). Fluxos POS/PDV com split bill e fechamento automático de conta. Construção do zero de cardápio digital, pedido na mesa e delivery.
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><strong>2022 — 2023</strong></td>
-<td>
-<strong>Lead Software Engineer</strong> @ <strong>Gurupass</strong><br/>
-App mobile do zero (React Native + TypeScript) para assinatura de treinos em academias. +100k usuários cadastrados, ~10k ativos. Ownership do frontend, release E2E com EAS, check-in com validação de geolocalização (~5m de precisão). Implementação de Gitflow + Semantic Release.
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><strong>2021 — 2022</strong></td>
-<td>
-<strong>Senior Software Engineer</strong> @ <strong>Cielo</strong><br/>
-Frontend de PWA de delivery para restaurantes (+100 estabelecimentos). Jornada completa do catálogo ao checkout com Next.js + TypeScript.
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><strong>2020 — 2021</strong></td>
-<td>
-<strong>Software Engineer</strong> @ <strong>Accenture</strong><br/>
-Arquiteturas Microfrontend e BFF. Testes E2E com Cypress, TDD, Clean Architecture e SOLID. Design system e CI/CD.
-</td>
-</tr>
-<tr>
-<td width="120" align="center"><strong>2017 — 2020</strong></td>
-<td>
-<strong>Software Engineer</strong> @ <strong>Prefeitura do Recife</strong><br/>
-Aplicações internas em React para reduzir burocracia. Iniciativas com React Native, PWA e Node.js.
-</td>
-</tr>
-</table>
-
----
-
 ### GitHub Stats
 
 <div align="center">
