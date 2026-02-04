@@ -82,21 +82,3 @@ Viés forte de engenharia: padrões claros, testes que protegem produção, Clea
 
 </div>
 
----
-
-### Projetos em Destaque
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| [**Platinum Dex**](https://github.com/joaoalvess/platinum-dex) | Tracker de troféus PlayStation com sync de perfil e biblioteca | Expo, TypeScript |
-| [**Claude Usebar**](https://github.com/joaoalvess/claude-usebar) | App de menu bar macOS para monitorar uso do Claude Code | Swift |
-| [**Apitude Quiz**](https://github.com/joaoalvess/apitude-quiz-mobile) | Questionário de sintomas para prevenção de COVID-19 | React Native, TS |
-| [**Ambev MegaHack**](https://github.com/joaoalvess/ambev-megahack3) | Localize o bar Ambev mais próximo e reserve sua mesa | TypeScript |
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=joaoalvess&color=1a1b27&style=flat-square&label=Visitantes" alt="Profile views" />
-
-</div>
