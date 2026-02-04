@@ -17,10 +17,6 @@ Foco em **payments**, **checkout** e jornadas **POS/PDV** — com ownership téc
 
 ### Sobre
 
-```
-7+ anos de experiência  ·  1.636 commits no último ano  ·  ~R$ 1M/mês em checkout
-```
-
 Engenheiro de software frontend atuando com **React**, **Next.js** e **TypeScript** em operação real de restaurantes, delivery e food service. Experiência com integrações de pagamento do zero — **Apple Pay**, **Google Pay**, **Pix**, cartão e benefícios — priorizando confiabilidade, UX estável e entrega contínua.
 
 Viés forte de engenharia: padrões claros, testes que protegem produção, Clean Architecture e SOLID.
