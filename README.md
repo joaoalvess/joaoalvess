@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&random=false&width=600&lines=Senior+Frontend+Engineer;Payments+%7C+Checkout+%7C+POS%2FPDV;React+%C2%B7+Next.js+%C2%B7+TypeScript;1.636+commits+no+%C3%BAltimo+ano" alt="João Alves" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&random=false&width=600&lines=Senior+Frontend+Engineer;Payments+%7C+Checkout+%7C+POS%2FPDV;React+%C2%B7+Next.js+%C2%B7+TypeScript;%2B1600+commits+no+%C3%BAltimo+ano" alt="João Alves" />
 
 ---
 
@@ -39,4 +39,5 @@ Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, P
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=joaoalvess&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoalvess&theme=gotham&utcOffset=-3)
