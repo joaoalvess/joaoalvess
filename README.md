@@ -4,7 +4,6 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" style="min-width: 400px; max-width: 400px; width: 400px;" align="right">
   <h3>Olá! Eu sou o João Alves ✋</h3>
   <p>Engenheiro frontend com 7+ anos construindo produtos web e mobile em ambientes de alta criticidade. Atuo com <strong>React</strong>, <strong>Next.js</strong> e <strong>TypeScript</strong>, com foco em <strong>payments</strong>, <strong>checkout</strong> e jornadas <strong>POS/PDV</strong> — integrações de pagamento do zero (Apple Pay, Google Pay, Pix, cartão, benefícios), priorizando confiabilidade e UX estável.</p>
-  <p>No último ano foram <strong>1.636 commits</strong> — construindo, iterando e entregando software todos os dias.</p>
 </p>
 
 ## 🌐 Redes Sociais:
