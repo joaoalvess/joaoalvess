@@ -1,37 +1,38 @@
-<div align="center">
-
-# João Alves
-
-**Senior Software Engineer** &nbsp;|&nbsp; Recife, PE - Brasil
-
-Engenheiro de software com foco em mobile e web, construindo produtos com **React Native**, **TypeScript** e **Swift**. Contribuidor do Arctic Code Vault e membro do GitHub Developer Program.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalvescosta/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoalvess)
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&random=false&width=600&lines=Senior+Frontend+Engineer;Payments+%7C+Checkout+%7C+POS%2FPDV;React+%C2%B7+Next.js+%C2%B7+TypeScript;1.636+commits+no+%C3%BAltimo+ano" alt="João Alves" />
 
 ---
 
-### Sobre
+### Sobre mim
 
-Desenvolvedor sênior com experiência em aplicações mobile e web de ponta a ponta. Apaixonado por código limpo, boas práticas e open source. No último ano, fiz **1.636 commits** — construindo, iterando e entregando software todos os dias.
+Engenheiro frontend com **7+ anos** construindo produtos web e mobile em ambientes de alta criticidade. Atuo com **React**, **Next.js** e **TypeScript**, com foco em **payments**, **checkout** e jornadas **POS/PDV**.
+
+Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, Pix, cartão e benefícios — priorizando confiabilidade, UX estável e entrega contínua.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalvescosta/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joaoalvescosta.com.br)
 
 ---
 
-### Tech Stack
+### Stack
 
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-</div>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-%23433E38.svg?style=for-the-badge&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/zod-%233068B7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Cypress](https://img.shields.io/badge/-cypress-%2369D3A7?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ---
 
@@ -39,39 +40,19 @@ Desenvolvedor sênior com experiência em aplicações mobile e web de ponta a p
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=joaoalvess&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=joaoalvess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=joaoalvess&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=joaoalvess&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoalvess&theme=github-dark&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-### Projetos em Destaque
-
-| Projeto | Descrição | Tech |
-|---------|-----------|------|
-| [**Platinum Dex**](https://github.com/joaoalvess/platinum-dex) | Tracker de troféus PlayStation com sync de perfil e biblioteca | Expo, TypeScript |
-| [**Claude Usebar**](https://github.com/joaoalvess/claude-usebar) | App de menu bar para macOS que monitora uso do Claude Code | Swift |
-| [**Apitude Quiz**](https://github.com/joaoalvess/apitude-quiz-mobile) | Questionário de sintomas para prevenção de COVID-19 | React Native, TypeScript |
-| [**Ambev MegaHack**](https://github.com/joaoalvess/ambev-megahack3) | Encontre o bar Ambev mais próximo e reserve sua mesa | TypeScript |
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=joaoalvess&color=1a1b27&style=flat-square&label=Visitantes" alt="Profile views" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoalvess&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
