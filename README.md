@@ -9,6 +9,7 @@ Engenheiro frontend com **7+ anos** construindo produtos web e mobile em ambient
 Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, Pix, cartão e benefícios — priorizando confiabilidade, UX estável e entrega contínua.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalvescosta/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoalvess)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joaoalvescosta.com.br)
 
 ---
@@ -37,7 +38,9 @@ Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, P
 ---
 
 ### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+| ![](https://github-readme-stats.vercel.app/api?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
+| :-: | :-: |
+
 ![](https://streak-stats.demolab.com/?user=joaoalvess&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoalvess&theme=gotham&utcOffset=-3)
