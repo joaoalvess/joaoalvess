@@ -2,12 +2,14 @@
 
 # João Alves
 
-**Senior Software Engineer** &nbsp;|&nbsp; Recife, PE - Brasil
+**Senior Frontend Engineer** &nbsp;|&nbsp; Recife, PE - Brasil
 
-Engenheiro de software com foco em mobile e web, construindo produtos com **React Native**, **TypeScript** e **Swift**. Contribuidor do Arctic Code Vault e membro do GitHub Developer Program.
+Engenheiro frontend com **7+ anos** construindo produtos web e mobile em ambientes de alta criticidade.
+Foco em **payments**, **checkout** e jornadas **POS/PDV** — com ownership técnico de ponta a ponta.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalvescosta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoalvess)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joaoalvescosta.com.br)
 
 </div>
 
@@ -15,7 +17,13 @@ Engenheiro de software com foco em mobile e web, construindo produtos com **Reac
 
 ### Sobre
 
-Desenvolvedor sênior com experiência em aplicações mobile e web de ponta a ponta. Apaixonado por código limpo, boas práticas e open source. No último ano, fiz **1.636 commits** — construindo, iterando e entregando software todos os dias.
+```
+7+ anos de experiência  ·  1.636 commits no último ano  ·  ~R$ 1M/mês em checkout
+```
+
+Engenheiro de software frontend atuando com **React**, **Next.js** e **TypeScript** em operação real de restaurantes, delivery e food service. Experiência com integrações de pagamento do zero — **Apple Pay**, **Google Pay**, **Pix**, cartão e benefícios — priorizando confiabilidade, UX estável e entrega contínua.
+
+Viés forte de engenharia: padrões claros, testes que protegem produção, Clean Architecture e SOLID.
 
 ---
 
@@ -23,15 +31,78 @@ Desenvolvedor sênior com experiência em aplicações mobile e web de ponta a p
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+**Core**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frontend & Styling**
+
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white)
+
+**Mobile**
+
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=000)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+
+**Testing & Infra**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=000)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
+
+---
+
+### Trajetória
+
+<table>
+<tr>
+<td width="120" align="center"><strong>2023 — hoje</strong></td>
+<td>
+<strong>Senior Software Engineer</strong> @ <strong>Qlic</strong><br/>
+Checkout com ~R$ 1M/mês em volume transacionado. Integrações de pagamento do zero (Apple Pay, Google Pay, Pix, cartão, benefícios). Fluxos POS/PDV com split bill e fechamento automático de conta. Construção do zero de cardápio digital, pedido na mesa e delivery.
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><strong>2022 — 2023</strong></td>
+<td>
+<strong>Lead Software Engineer</strong> @ <strong>Gurupass</strong><br/>
+App mobile do zero (React Native + TypeScript) para assinatura de treinos em academias. +100k usuários cadastrados, ~10k ativos. Ownership do frontend, release E2E com EAS, check-in com validação de geolocalização (~5m de precisão). Implementação de Gitflow + Semantic Release.
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><strong>2021 — 2022</strong></td>
+<td>
+<strong>Senior Software Engineer</strong> @ <strong>Cielo</strong><br/>
+Frontend de PWA de delivery para restaurantes (+100 estabelecimentos). Jornada completa do catálogo ao checkout com Next.js + TypeScript.
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><strong>2020 — 2021</strong></td>
+<td>
+<strong>Software Engineer</strong> @ <strong>Accenture</strong><br/>
+Arquiteturas Microfrontend e BFF. Testes E2E com Cypress, TDD, Clean Architecture e SOLID. Design system e CI/CD.
+</td>
+</tr>
+<tr>
+<td width="120" align="center"><strong>2017 — 2020</strong></td>
+<td>
+<strong>Software Engineer</strong> @ <strong>Prefeitura do Recife</strong><br/>
+Aplicações internas em React para reduzir burocracia. Iniciativas com React Native, PWA e Node.js.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -64,9 +135,9 @@ Desenvolvedor sênior com experiência em aplicações mobile e web de ponta a p
 | Projeto | Descrição | Tech |
 |---------|-----------|------|
 | [**Platinum Dex**](https://github.com/joaoalvess/platinum-dex) | Tracker de troféus PlayStation com sync de perfil e biblioteca | Expo, TypeScript |
-| [**Claude Usebar**](https://github.com/joaoalvess/claude-usebar) | App de menu bar para macOS que monitora uso do Claude Code | Swift |
-| [**Apitude Quiz**](https://github.com/joaoalvess/apitude-quiz-mobile) | Questionário de sintomas para prevenção de COVID-19 | React Native, TypeScript |
-| [**Ambev MegaHack**](https://github.com/joaoalvess/ambev-megahack3) | Encontre o bar Ambev mais próximo e reserve sua mesa | TypeScript |
+| [**Claude Usebar**](https://github.com/joaoalvess/claude-usebar) | App de menu bar macOS para monitorar uso do Claude Code | Swift |
+| [**Apitude Quiz**](https://github.com/joaoalvess/apitude-quiz-mobile) | Questionário de sintomas para prevenção de COVID-19 | React Native, TS |
+| [**Ambev MegaHack**](https://github.com/joaoalvess/ambev-megahack3) | Localize o bar Ambev mais próximo e reserve sua mesa | TypeScript |
 
 ---
 
