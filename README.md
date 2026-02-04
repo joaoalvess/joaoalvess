@@ -39,8 +39,10 @@ Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, P
 
 ### 📊 GitHub Stats:
 
-| ![](https://github-readme-stats.vercel.app/api?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact) |
-| :-: | :-: |
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</div>
 
 ![](https://streak-stats.demolab.com/?user=joaoalvess&theme=gotham&hide_border=false)<br/>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoalvess&theme=gotham&utcOffset=-3)
