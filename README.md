@@ -2,7 +2,7 @@
 
 ---
 
-### Sobre mim
+### 👨‍💻 Sobre mim
 
 Engenheiro frontend com **7+ anos** construindo produtos web e mobile em ambientes de alta criticidade. Atuo com **React**, **Next.js** e **TypeScript**, com foco em **payments**, **checkout** e jornadas **POS/PDV**.
 
@@ -13,7 +13,7 @@ Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, P
 
 ---
 
-### Stack
+### 💻 Stacks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
