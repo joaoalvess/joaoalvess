@@ -1,19 +1,20 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&random=false&width=600&lines=Senior+Frontend+Engineer;Payments+%7C+Checkout+%7C+POS%2FPDV;React+%C2%B7+Next.js+%C2%B7+TypeScript;1.636+commits+no+%C3%BAltimo+ano" alt="João Alves" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&random=false&width=600&lines=Senior+Frontend+Engineer;Payments+%7C+Checkout+%7C+POS%2FPDV;React+%C2%B7+Next.js+%C2%B7+TypeScript;%2B1600+commits+no+%C3%BAltimo+ano" alt="João Alves" />
 
 ---
 
-### Sobre mim
+### 👨‍💻 Sobre mim
 
 Engenheiro frontend com **7+ anos** construindo produtos web e mobile em ambientes de alta criticidade. Atuo com **React**, **Next.js** e **TypeScript**, com foco em **payments**, **checkout** e jornadas **POS/PDV**.
 
 Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, Pix, cartão e benefícios — priorizando confiabilidade, UX estável e entrega contínua.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalvescosta/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaoalvess)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@joaoalvescosta.com.br)
 
 ---
 
-### Stack
+### 💻 Stacks
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -36,23 +37,7 @@ Experiência com integrações de pagamento do zero — Apple Pay, Google Pay, P
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats:
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=joaoalvess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoalvess&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=joaoalvess&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=joaoalvess&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
+![](https://streak-stats.demolab.com/?user=joaoalvess&theme=gotham&hide_border=false)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=joaoalvess&theme=gotham&utcOffset=-3)
